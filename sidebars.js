@@ -1,7 +1,10 @@
 module.exports = {
   someSidebar: {
-    'Overview': [
-      'introduction',
+    'Lärm & Liebe': [
+      'allgemeines',
+    ],
+    'Ablauf': [
+      'line-up',
     ]
   }
 };

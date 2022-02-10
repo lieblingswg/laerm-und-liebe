@@ -1,7 +1,7 @@
 ---
 slug: /
-title: Introduction
-sidebar_label: Introduction
+title: Was ist Lärm & Liebe?
+sidebar_label: Allgemeines
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
