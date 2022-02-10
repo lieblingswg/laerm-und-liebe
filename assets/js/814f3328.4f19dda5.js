@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklaerm_und_liebe=self.webpackChunklaerm_und_liebe||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/laerm-und-liebe/blog/welcome"}]}')}}]);
