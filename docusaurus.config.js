@@ -35,7 +35,7 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
         },
         {
           href: whatsApp,
-          label: 'WhatsApp 🗯',
+          label: 'WhatsApp 💩',
           position: 'right'
         },
       ],
