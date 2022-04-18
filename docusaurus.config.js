@@ -3,7 +3,7 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
 
   module.exports = {
   title: '📢 Lärm & Liebe ❤️',
-  tagline: '2. Juli 2022',
+  tagline: '9. Juli 2022',
   projectName: 'laerm-und-liebe',
   organizationName: 'lieblingswg',
   url: 'https://lieblingswg.github.io',
