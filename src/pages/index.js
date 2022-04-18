@@ -12,7 +12,7 @@ function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="2. Juli 2022">
+      description="9. Juli 2022">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="purple-text">Save the Date!</h1>
