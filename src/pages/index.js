@@ -31,7 +31,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={'https://paypal.com'}>
+              to={'https://www.paypal.com/paypalme/deinelieblingswg'}>
                Ick bin dabei!
             </Link>
           </div>

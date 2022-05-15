@@ -28,16 +28,16 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
           label: '📒 FAQ',
           position: 'left',
         },
-        {
+        /*{
           href: signal,
           label: 'Signal 💬 ',
           position: 'right'
         },
         {
           href: whatsApp,
-          label: 'WhatsApp 💩',
+          label: 'WhatsApp 💬',
           position: 'right'
-        },
+        },*/
       ],
     },
     footer: {
@@ -52,19 +52,19 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
             },
           ],
         },
-        {
-          title: 'Support',
-          items: [
-            {
-              label: 'Signal',
-              href: signal,
-            },
-            {
-              label: 'WhatsApp',
-              href: whatsApp,
-            },
-          ],
-        },
+      /*{
+        title: 'Support',
+        items: [
+          {
+            label: 'Signal',
+            href: signal,
+          },
+          {
+            label: 'WhatsApp',
+            href: whatsApp,
+          },
+        ],
+        },*/
         {
           title: 'More',
           items: [
