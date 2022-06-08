@@ -24,7 +24,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Was geht ab?
+              🤔 Was geht ab?
             </Link>&nbsp;&nbsp;
             <Link
               className={clsx(
@@ -32,7 +32,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={'https://www.paypal.com/paypalme/deinelieblingswg'}>
-               Ick bin dabei!
+              💸 Ick bin dabei!
             </Link>
           </div>
         </div>
