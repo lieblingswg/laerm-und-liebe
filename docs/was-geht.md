@@ -13,8 +13,7 @@ Partyeskalation in der Nacht
 verschiedenen Genres ab Abend in der WG
 * **Line-Up?** Wird bald Stück für Stück bekannt gegeben, stay tuned!
 * **Paypal-Spende?** Um Live-Acts, Technik und Bier zu finanzieren, sind wir auch in diesem Jahr
-wieder auf eure Spenden angewiesen – Anleitung zur Spende findet ihr hier (LINK
-EINFÜGEN!)
+wieder auf eure Spenden angewiesen – Anleitung zur Spende findet ihr [hier](http://Paypal.me/deinelieblingswg)
 * **Gästeliste?** Um auf die Party zu kommen, müssen du und deine Friends auf der Gästeliste
 stehen – das erreicht ihr durch eine Paypal-Spende! Bitte die Anleitung hierzu beachten
 * **Drinks?** Fassbierflatrate von Anfang bis Ende für euch alle! Für alle weitere gilt: Bring your

@@ -10,7 +10,7 @@ Lärm & Liebe ist die fetteste WG-Party Aachens und geht diesen Sommer in die 6.
 364 Tage im Jahr eine mal mehr, mal weniger gesittete WG. Hier leben 8 partybegeisterte Menschen, die alle eine Leidenschaft teilen: Lärm & Liebe! Dazu werden wir für einen Tag im Jahr unsere Räumlichkeiten in eine Partyfestung der Superlative verwandeln...
 
 ### Mixed Martial Arts
-Auf drei Floors gibt’s bei verschiedensten Genres musikalisch auf die Fresse.  Unsere gnadenlosen Taekwondo Meister*innen und Krav-Maga Spezialisten*innen legen rund um die Uhr die niceste Musik (und möglicherweise im Anschluss auch euch) auf die Matte. Widerstand ist zwecklos.
+Auf drei Floors gibt’s bei verschiedensten Genres musikalisch auf die Fresse. Unsere gnadenlosen Taekwondo Meister*innen und Krav-Maga Spezialisten*innen legen rund um die Uhr die niceste Musik (und möglicherweise im Anschluss auch euch) auf die Matte. Widerstand ist zwecklos.
 
 ### Dancefloors<sup>3</sup>
 Ja richtig gehört: 3 (!!!) Floors, von denen genremäßig keiner wie der andere ist, werden euch in ihren Bann ziehen. Jeder davon grenzt sich thematisch etwas von den anderen ab und auch was die Deko angeht, könnt ihr euch wieder auf die eine oder andere Überraschung einstellen. Sprich: Wir werden für euch wieder einmal die unvergleichliche Partyatmosphäre erschaffen, die es so nur in der Lieblings-WG gibt!
