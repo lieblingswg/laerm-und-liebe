@@ -38,14 +38,6 @@ function Home() {
         </div>
       </header>
       <main>
-        <div className="container-responsive">
-          <iframe className="responsive-iframe"
-                  src="https://www.youtube.com/embed/A7ZxRs45tTg?&autoplay=1&loop=1&rel=0&showinfo=0&color=white&iv_load_policy=3&playlist=A7ZxRs45tTg"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen>
-          </iframe>
-        </div>
       </main>
     </Layout>
   );
