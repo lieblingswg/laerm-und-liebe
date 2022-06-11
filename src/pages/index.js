@@ -31,7 +31,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={'https://www.paypal.com/paypalme/deinelieblingswg'}>
+              to={useBaseUrl('docs/paypal-spende/')}>
               💸 Ick bin dabei!
             </Link>
           </div>
