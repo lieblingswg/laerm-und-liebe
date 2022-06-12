@@ -10,6 +10,11 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
   baseUrl: '/laerm-und-liebe/',
   favicon: 'img/Logo.ico',
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: 'Lärm & Liebe',
       logo: {
