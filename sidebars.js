@@ -5,7 +5,7 @@ module.exports = {
       'laerm-und-liebe',
       'paypal-spende'
     ],
-    'Ablauf': [
+    'Programm': [
       'line-up',
     ]
   }

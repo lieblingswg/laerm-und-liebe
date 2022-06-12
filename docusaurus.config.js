@@ -50,6 +50,11 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
               label: 'Ablauf',
               to: 'docs/',
             },
+            {
+              label: 'Wie spende ich?',
+              to: 'docs/paypal-spende',
+
+            },
           ],
         },
       /*{

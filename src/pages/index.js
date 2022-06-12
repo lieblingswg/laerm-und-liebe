@@ -38,6 +38,10 @@ function Home() {
         </div>
       </header>
       <main>
+        <div className="container-responsive">
+          <iframe class="responsive-iframe" src="https://player.vimeo.com/video/719614645?h=884e644f70" frameBorder="0"
+                  allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
+        </div>
       </main>
     </Layout>
   );
