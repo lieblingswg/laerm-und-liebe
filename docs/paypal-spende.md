@@ -6,7 +6,7 @@ sidebar_label: Spende How-to
 
 Um bei der Party dabei zu sein, müsst ihr bei **PayPal spenden**. 
 Spendet bitte ausschließlich an **@DeineLieblingsWg** über folgenden Link: 
-[https://www.paypal.com/paypalme/deinelieblingswg](https://www.paypal.com/paypalme/deinelieblingswg)
+[paypalme/deinelieblingswg](https://www.paypal.com/paypalme/deinelieblingswg)
 
 **Bitte beachtet außerdem Folgendes:**
 * **Minimum** ist eine Spende von **10€ pro Person** – wir freuen uns aber ultra mega über alle, die mehr spenden wollen ♥️

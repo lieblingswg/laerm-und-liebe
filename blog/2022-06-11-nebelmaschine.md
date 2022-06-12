@@ -8,7 +8,7 @@ author_image_url: https://avatars.githubusercontent.com/u/99436439?v=4
 tags: [Party, Hard]
 ---
 
-**Nebelmaschine, Strobo & Co laufen warm**
+**Nebelmaschine und Strobo laufen warm**
 
 Noch keinen Ahnung, was auf den Floors in der Lieblings WG abgeht?
 

@@ -14,7 +14,7 @@ verschiedenen Genres ab Abend in der WG
 * **Line-Up?** Wird bald Stück für Stück bekannt gegeben, stay tuned!
 * **Gästeliste?** Um auf die Party zu kommen, müssen du und deine Friends auf der Gästeliste
     stehen – das erreicht ihr durch eine [PayPal-Spende](http://Paypal.me/deinelieblingswg)! [Hier findet ihr die Anleitung hierzu](https://lieblingswg.github.io/laerm-und-liebe/docs/paypal-spende/).
-* **Paypal-Spende?** Wir sind auf die Spenden angewiesen um Live-Acts, Technik und Bier zu finanzieren. Wir wollen keinen Gewinn machen, sondern versuchen am Ende bei 0€ rauszukommen. Jeder Cent wird in die Party gepumpt. 💪
+* **Paypal-Spende?** Spendet mindestens 10€ damit wir die Party finanzieren können. Wir machen keinen Gewinn damit, denn jeder Cent wird in die Party gepumpt. 💪
 * **Drinks?** Fassbierflatrate von Anfang bis Ende für euch alle! Für alle weitere gilt: Bring your
 own supplies
 * **Food?** Wir werden wieder ein Food-Konzept entwickeln, das euch nicht verhungern lässt –
