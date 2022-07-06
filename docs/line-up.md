@@ -4,8 +4,55 @@ title: Line-Up
 sidebar_label: Line-Up
 ---
 
-Schon gespannt, wer bei der Jubiläumsauflage der Lärm & Liebe an den Turntables stehen wird?
+## Floorplan
+![Example banner](./floor-map.png)
 
-Das Line-Up wird hier bald Stück für Stück bekannt gegeben werden!
+## Henriciland (Outdoor)
 
-So viel vorab: Bekannte Gesichter wie **Don Cornetto**, **Tunnel-Michi** oder **Baller-Benni Ultra-Bock** sind auch für die Party 2022 schon maximal gehyped...
+| Artist                  | Zeit  | Genre                    |
+|:------------------------|:------|:-------------------------|
+| Ballerbenni Ultrabock   | 14:00 | 🏝 Ballermann Supermix   |
+| DJ Loco                 | 15:00 | 💃 Reggaeton & Hip Hop   |
+| Kings Corner            | 16:00 | 🎤 **Live**              |
+| DJ Loco                 | 17:00 | 🕺 Reggaeton & Hip Hop   |
+| Glückskind              | 18:00 | 🔋 Electrochill          |
+| Lobomusic               | 19:00 | 🎛 **Vinyl Set**         |
+| Clean Josef             | 20:00 | 🎷 Jazz House            |
+| Tunnelmichi             | 21:00 | 🎶 Vocal & Melodic House |
+
+## Henrici Beats (Indoor)
+
+| Artist                  | Zeit  | Genre                    |
+|:------------------------|:------|:-------------------------|
+| Benni & Mary            | 18:00 | 🕺 80s                   |
+| DJ Loco                 | 20:00 | 🚔 Hip Hop               |
+| Yolonas                 | 22:00 | 🌈 Querbeats             |
+| Yolonas                 | 23:00 | 👑 Hip Hop & Trap        |
+| ❓                      |  0:00 | ❓                       |
+| DJ Loco                 |  2:00 | 🔫 Hip Hop               |
+
+
+## Techno La Cola (Indoor)
+
+| Artist                  | Zeit  | Genre                    |
+|:------------------------|:------|:-------------------------|
+| Micha & Jonas           | 21:00 | ⚡️ Techno                |
+| Lobomusic               | 23:00 | 🎵 Melodic Techno        |
+| Jonas Halter & Ex Ante  |  1:00 | ✨ Drum & Bass           |
+| Jonas Halter & Ex Ante  |  2:00 | 🧨 Hard Techno           |
+| Tunnelmichi             |  3:00 | 🪄 Bass House            |
+| Clean Josef             |  4:00 | 🎧 Techno                |
+
+## Naggos Bushof (Indoor)
+
+| Artist                  | Zeit  | Genre                    |
+|:------------------------|:------|:-------------------------|
+| Nacho                   | 20:00 | 🧑‍🎤 Indie & Punk          |
+| Joel                    | 21:00 | ⚙️ Techno                |
+| DJ Pauli                | 23:00 | 🚌 radiate love          |
+| Basstey                 |  0:00 | 🕶 Tech House            |
+| Basstey                 |  1:00 | 🎧 Progressive Techno    |
+| Schmierjlappen          |  2:00 | 🧨 Techno                |
+| ❓                      |  4:00 | ❓                       |
+
+
