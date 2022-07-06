@@ -33,6 +33,12 @@ const whatsApp = 'https://chat.whatsapp.com/GQHIec1Ne4v84f5mPDc2kd';
           label: '📒 FAQ',
           position: 'left',
         },
+        {
+          to: 'docs/line-up/',
+          activeBasePath: 'docs',
+          label: '🎸 Line-Up',
+          position: 'left',
+        },
         /*{
           href: signal,
           label: 'Signal 💬 ',

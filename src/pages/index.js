@@ -23,16 +23,27 @@ function Home() {
               className={clsx('button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('docs/')}
+            >
               🤔 Was geht ab?
             </Link>&nbsp;&nbsp;
+            <p hidden><Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('docs/paypal-spende/')}
+            >
+              💸 Ick bin dabei!
+            </Link></p>
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/paypal-spende/')}>
-              💸 Ick bin dabei!
+              to={useBaseUrl('docs/line-up/')}
+            >
+              🎸 Line-Up!
             </Link>
           </div>
         </div>
