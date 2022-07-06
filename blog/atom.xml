@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lieblingswg.github.io/laerm-und-liebe/blog</id>
     <title>📢 Lärm &amp; Liebe ❤️ Blog</title>
-    <updated>2022-06-11T00:00:00.000Z</updated>
+    <updated>2022-07-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lieblingswg.github.io/laerm-und-liebe/blog"/>
     <subtitle>📢 Lärm &amp; Liebe ❤️ Blog</subtitle>
     <icon>https://lieblingswg.github.io/laerm-und-liebe/img/Logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Casting-Aktion für 5 Zusatztickets]]></title>
+        <id>casting</id>
+        <link href="https://lieblingswg.github.io/laerm-und-liebe/blog/casting"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Basics]]></summary>
+        <content type="html"><![CDATA[<h3>Basics</h3><p>Seit Montag ist die Gästeliste voll! Dankeschön an alle.
+Über ein Casting werden wir 5 zusätzliche Tickets vergeben.
+Dabei entscheidet die Community wer die Tickets bekommt.</p><h3>How does it work?</h3><p>Wer noch kein Ticket hat, kann uns ein 10-15 Sekunden langes Video schicken.
+Diese werden von uns gesammelt und in zufälliger Reihenfolge zwei Tage vor der Party in die Whatsapp Gruppen geschickt.
+Die Videos mit den meisten Likes ergattern die Tickets.</p><h3>What should be in the video?</h3><p>Seid kreativ! Die Randbedingungen für das Video sind nur die 10-15 Sekunden. Natürlich behalten wir uns vor, unangebrachte Videos (Diskriminierung, Hass, Rassismus, Gewalt etc.) bereits im Vorfeld auszuschließen.
+Das unterliegt der subjektiven Meinung der WG. Wir melden uns bei euch wenn etwas nicht passt, sodass ihr nachlegen könnt.</p><h3>To whom do I send the video?</h3><p>Das Video muss an die offizielle Whatsapp Nummer der WG geschickt werden (+49 1525 9680924). Diese findet ihr auch unter den Admins der Gruppen.
+Zusätzlich zu dem Video müsst ihr euch damit einverstanden erklären, dass wir dieses in den zwei Party Gruppen teilen dürfen und ihr von allen zu sehenden Personen die Erlaubnis habt es dort zu posten.</p><h3>Golden Buzzer Rule</h3><p>Angelehnt an den goldenen Buzzer einiger Casting Shows darf die Person mit der höchsten Individualspende ein Video direkt auswählen.
+Dafür werden wir der entsprechenden Person zu Beginn der Abstimmung Bescheid geben.</p>]]></content>
+        <author>
+            <name>Lieblings-WG</name>
+            <uri>https://github.com/dlwg136</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nebel ist lebeN!]]></title>
         <id>nebelmaschine</id>

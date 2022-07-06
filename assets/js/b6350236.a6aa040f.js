@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklaerm_und_liebe=self.webpackChunklaerm_und_liebe||[]).push([[806],{9171:function(e){e.exports=JSON.parse('{"allTagsPath":"/laerm-und-liebe/blog/tags","slug":"/laerm-und-liebe/blog/tags/party","name":"Party","count":2,"permalink":"/laerm-und-liebe/blog/tags/party"}')}}]);
